@@ -8,6 +8,11 @@ Emori Gen AI is an AI chatbot companion with **two semantic search integrations*
 It analyzes each user query with **sentiment analysis** and **self-evaluation** to provide accurate and context-aware responses.
 
 ---
+## Full WorkFlow
+generated via Pyppeteer
+![Full Graph Workflow](https://github.com/user-attachments/assets/ed82345b-6ede-4c77-9267-6896a9ff5ecd)
+
+---
 
 ## Features
 
